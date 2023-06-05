@@ -1,3 +1,0 @@
-C:\Users\jfeli\OneDrive\Escritorio\DAM 2\Desarrollo de interfaces\ejerDI22\Tema_3\Galeria_de_Arte\Galeria_de_Arte\obj\Debug\net6.0-windows\Galeria_de_Arte.csproj.AssemblyReference.cache
-C:\Users\jfeli\OneDrive\Escritorio\DAM 2\Desarrollo de interfaces\ejerDI22\Tema_3\Galeria_de_Arte\Galeria_de_Arte\obj\Debug\net6.0-windows\App.g.cs
-C:\Users\jfeli\OneDrive\Escritorio\DAM 2\Desarrollo de interfaces\ejerDI22\Tema_3\Galeria_de_Arte\Galeria_de_Arte\obj\Debug\net6.0-windows\Galeria_de_Arte_MarkupCompile.cache
